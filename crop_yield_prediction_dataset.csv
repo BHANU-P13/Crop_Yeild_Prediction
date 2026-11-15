@@ -1,0 +1,1439 @@
+measure,commodity,commodity_name,region,region_name,region_kind,period,value,unit
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2021-22,2133,kg_ha
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2021-22,2133,kg_ha
+yield,wheat,Wheat,in-an,Andaman & Nicobar Islands,ut,2021-22,0,kg_ha
+yield,wheat,Wheat,in-an,Andaman & Nicobar Islands,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2021-22,2680,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2021-22,2680,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2021-22,20043,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2021-22,20043,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2021-22,2869,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2021-22,4401,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2021-22,3392,kg_ha
+yield,wheat,Wheat,in-ap,Andhra Pradesh,state,2021-22,0,kg_ha
+yield,wheat,Wheat,in-ap,Andhra Pradesh,state,2021-22,0,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2021-22,3390,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2021-22,6880,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2021-22,5553,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2021-22,77562,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2021-22,77562,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2021-22,1852,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2021-22,1343,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2021-22,1849,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2021-22,1974,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2021-22,1974,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2021-22,1539,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2021-22,1720,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2021-22,1575,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2021-22,21550,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2021-22,21550,kg_ha
+yield,rice,Rice,in-as,Assam,state,2021-22,1784,kg_ha
+yield,rice,Rice,in-as,Assam,state,2021-22,2281,kg_ha
+yield,rice,Rice,in-as,Assam,state,2021-22,1862,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2021-22,1248,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2021-22,1248,kg_ha
+yield,maize,Maize,in-as,Assam,state,2021-22,3965,kg_ha
+yield,maize,Maize,in-as,Assam,state,2021-22,3965,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2021-22,38969,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2021-22,38969,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2021-22,2493,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2021-22,2682,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2021-22,2496,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2021-22,2780,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2021-22,2780,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2021-22,1352,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2021-22,4976,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2021-22,4026,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2021-22,56949,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2021-22,56949,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2021-22,5500,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2021-22,5500,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2021-22,5000,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2021-22,5000,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2021-22,2875,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2021-22,2875,kg_ha
+yield,sugarcane,Sugarcane,in-ch,Chandigarh,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-ch,Chandigarh,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2021-22,2134,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2021-22,2134,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2021-22,1229,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2021-22,1229,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2021-22,3017,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2021-22,3017,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2021-22,56040,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2021-22,56040,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2021-22,2069,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2021-22,2069,kg_ha
+yield,wheat,Wheat,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,wheat,Wheat,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-dh,Dadra & Nagar Haveli,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-dd,Daman & Diu,ut,2021-22,1936,kg_ha
+yield,rice,Rice,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-dd,Daman & Diu,ut,2021-22,1936,kg_ha
+yield,wheat,Wheat,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,wheat,Wheat,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-dd,Daman & Diu,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2021-22,3106,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2021-22,3106,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2021-22,4500,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2021-22,4500,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2021-22,5100,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2021-22,5100,kg_ha
+yield,sugarcane,Sugarcane,in-dl,Delhi,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-dl,Delhi,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2021-22,2816,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2021-22,2742,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2021-22,2795,kg_ha
+yield,maize,Maize,in-ga,Goa,state,2021-22,0,kg_ha
+yield,maize,Maize,in-ga,Goa,state,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2021-22,66172,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2021-22,66172,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2021-22,2304,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2021-22,2924,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2021-22,2355,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2021-22,3205,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2021-22,3205,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2021-22,1950,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2021-22,2521,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2021-22,2090,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2021-22,78306,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2021-22,78306,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2021-22,3605,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2021-22,3605,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2021-22,4533,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2021-22,4533,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2021-22,3133,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2021-22,3133,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2021-22,81918,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2021-22,81918,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2021-22,2532,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2021-22,2532,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2021-22,1714,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2021-22,1714,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2021-22,2970,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2021-22,2970,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2021-22,15190,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2021-22,15190,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2021-22,1834,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2021-22,1834,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2021-22,2066,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2021-22,2066,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2021-22,1986,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2021-22,1986,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2021-22,2028,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2021-22,2028,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2021-22,2282,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2021-22,2282,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2021-22,2225,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2021-22,2373,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2021-22,2231,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2021-22,3097,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2021-22,3069,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2021-22,3089,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2021-22,1287,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2021-22,1287,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2021-22,3231,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2021-22,3621,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2021-22,3279,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2021-22,96000,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2021-22,96000,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2021-22,2274,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2021-22,3195,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2021-22,2488,kg_ha
+yield,wheat,Wheat,in-kl,Kerala,state,2021-22,1000,kg_ha
+yield,wheat,Wheat,in-kl,Kerala,state,2021-22,1000,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2021-22,2125,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2021-22,2731,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2021-22,2614,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2021-22,11401,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2021-22,11401,kg_ha
+yield,rice,Rice,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2021-22,1600,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2021-22,1600,kg_ha
+yield,maize,Maize,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-la,Ladakh,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,wheat,Wheat,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,wheat,Wheat,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-ld,Lakshadweep,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2021-22,2283,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2021-22,0,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2021-22,2283,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2021-22,3535,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2021-22,3535,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2021-22,3291,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2021-22,0,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2021-22,3291,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2021-22,57840,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2021-22,57840,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2021-22,2127,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2021-22,2954,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2021-22,2178,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2021-22,1894,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2021-22,1894,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2021-22,2694,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2021-22,3182,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2021-22,2865,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2021-22,92000,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2021-22,92000,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2021-22,3008,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2021-22,2832,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2021-22,2836,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2021-22,2457,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2021-22,2457,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2021-22,2281,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2021-22,2232,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2021-22,2266,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2021-22,56561,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2021-22,56561,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2021-22,2469,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2021-22,4626,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2021-22,2741,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2021-22,1935,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2021-22,1935,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2021-22,2302,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2021-22,0,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2021-22,2302,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2021-22,3000,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2021-22,3000,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2021-22,1740,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2021-22,2008,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2021-22,1744,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2021-22,1720,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2021-22,1503,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2021-22,1703,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2021-22,28709,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2021-22,28709,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2021-22,1233,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2021-22,1800,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2021-22,1234,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2021-22,1688,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2021-22,1688,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2021-22,1552,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2021-22,1903,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2021-22,1559,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2021-22,28695,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2021-22,28695,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2021-22,2235,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2021-22,3797,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2021-22,2353,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2021-22,1705,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2021-22,1705,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2021-22,2783,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2021-22,2697,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2021-22,2780,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2021-22,56398,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2021-22,56398,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2021-22,2956,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2021-22,2992,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2021-22,2984,kg_ha
+yield,wheat,Wheat,in-py,Puducherry,ut,2021-22,0,kg_ha
+yield,wheat,Wheat,in-py,Puducherry,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-py,Puducherry,ut,2021-22,0,kg_ha
+yield,maize,Maize,in-py,Puducherry,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2021-22,0,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2021-22,4340,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2021-22,4340,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2021-22,4216,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2021-22,4216,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2021-22,3930,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2021-22,3930,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2021-22,82153,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2021-22,82153,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2021-22,2436,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2021-22,2436,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2021-22,3913,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2021-22,3913,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2021-22,2089,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2021-22,5685,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2021-22,2149,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2021-22,75845,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2021-22,75845,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2021-22,1861,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2021-22,1861,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2021-22,1155,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2021-22,1155,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2021-22,1773,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2021-22,1773,kg_ha
+yield,sugarcane,Sugarcane,in-sk,Sikkim,state,2021-22,0,kg_ha
+yield,sugarcane,Sugarcane,in-sk,Sikkim,state,2021-22,0,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2021-22,3483,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2021-22,4436,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2021-22,3566,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2021-22,8050,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2021-22,6068,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2021-22,7066,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2021-22,109240,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2021-22,109240,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2021-22,3300,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2021-22,3572,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2021-22,3395,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2021-22,2009,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2021-22,2009,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2021-22,4558,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2021-22,7386,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2021-22,5403,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2021-22,102306,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2021-22,102306,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2021-22,3069,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2021-22,3470,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2021-22,3171,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2021-22,2071,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2021-22,2071,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2021-22,1842,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2021-22,2637,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2021-22,2046,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2021-22,55016,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2021-22,55016,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2021-22,2675,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2021-22,3268,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2021-22,2678,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2021-22,3604,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2021-22,3604,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2021-22,2123,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2021-22,2750,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2021-22,2170,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2021-22,82300,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2021-22,82300,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2021-22,2680,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2021-22,3817,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2021-22,2786,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2021-22,2896,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2021-22,2896,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2021-22,2486,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2021-22,2486,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2021-22,80000,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2021-22,80000,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2021-22,2848,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2021-22,3479,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2021-22,2995,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2021-22,2974,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2021-22,2974,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2021-22,3046,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2021-22,7652,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2021-22,6989,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2021-22,83834,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2021-22,83834,kg_ha
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2022-23,2107,kg_ha
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2022-23,2107,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2022-23,2260,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2022-23,2260,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2022-23,23750,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2022-23,23750,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2022-23,3434,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2022-23,4366,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2022-23,3730,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2022-23,4046,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2022-23,8859,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2022-23,7138,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2022-23,73893,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2022-23,73893,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2022-23,1857,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2022-23,1345,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2022-23,1854,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2022-23,1977,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2022-23,1977,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2022-23,1544,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2022-23,1722,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2022-23,1579,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2022-23,21560,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2022-23,21560,kg_ha
+yield,rice,Rice,in-as,Assam,state,2022-23,2326,kg_ha
+yield,rice,Rice,in-as,Assam,state,2022-23,2949,kg_ha
+yield,rice,Rice,in-as,Assam,state,2022-23,2426,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2022-23,1322,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2022-23,1322,kg_ha
+yield,maize,Maize,in-as,Assam,state,2022-23,3698,kg_ha
+yield,maize,Maize,in-as,Assam,state,2022-23,3698,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2022-23,43589,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2022-23,43589,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2022-23,2447,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2022-23,2778,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2022-23,2453,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2022-23,2958,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2022-23,2958,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2022-23,2458,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2022-23,7120,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2022-23,6469,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2022-23,5854,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2022-23,60627,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2022-23,60627,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2022-23,3950,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2022-23,3950,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2022-23,4696,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2022-23,4696,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2022-23,2875,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2022-23,2875,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2022-23,2602,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2022-23,2602,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2022-23,1427,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2022-23,1427,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2022-23,3267,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2022-23,3267,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2022-23,56890,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2022-23,56890,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2022-23,2073,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2022-23,2073,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2022-23,3067,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2022-23,3067,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2022-23,4650,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2022-23,4650,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2022-23,5120,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2022-23,5120,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2022-23,2789,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2022-23,2842,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2022-23,2804,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2022-23,62110,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2022-23,62110,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2022-23,2496,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2022-23,2899,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2022-23,2530,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2022-23,3248,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2022-23,3248,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2022-23,1906,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2022-23,2748,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2022-23,2562,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2022-23,2140,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2022-23,74344,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2022-23,74344,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2022-23,3362,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2022-23,3362,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2022-23,4704,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2022-23,4704,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2022-23,3328,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2022-23,3328,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2022-23,82232,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2022-23,82232,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2022-23,1942,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2022-23,1942,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2022-23,1853,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2022-23,1853,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2022-23,2654,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2022-23,2654,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2022-23,15440,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2022-23,15440,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2022-23,2202,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2022-23,2202,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2022-23,2062,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2022-23,2062,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2022-23,1979,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2022-23,1979,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2022-23,1175,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2022-23,1175,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2022-23,1747,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2022-23,1747,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2022-23,2146,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2022-23,2146,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2022-23,1952,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2022-23,1622,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2022-23,1910,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2022-23,3344,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2022-23,2633,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2022-23,3016,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2022-23,3223,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2022-23,1373,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2022-23,1373,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2022-23,2985,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2022-23,3490,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2022-23,3755,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2022-23,3092,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2022-23,90000,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2022-23,90000,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2022-23,2716,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2022-23,3149,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2022-23,3350,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2022-23,3108,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2022-23,3091,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2022-23,3390,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2022-23,1286,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2022-23,2943,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2022-23,108740,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2022-23,108740,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2022-23,1553,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2022-23,1553,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2022-23,2057,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2022-23,2057,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2022-23,3179,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2022-23,3179,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2022-23,3191,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2022-23,3191,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2022-23,70040,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2022-23,70040,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2022-23,2221,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2022-23,2732,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2022-23,2269,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2022-23,1948,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2022-23,1948,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2022-23,3080,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2022-23,2669,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2022-23,1854,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2022-23,2913,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2022-23,91200,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2022-23,91200,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2022-23,3091,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2022-23,1835,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2022-23,1874,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2022-23,2481,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2022-23,2481,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2022-23,2293,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2022-23,2190,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2022-23,2220,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2022-23,57557,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2022-23,57557,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2022-23,2333,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2022-23,4566,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2022-23,2591,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2022-23,1790,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2022-23,1790,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2022-23,2265,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2022-23,2265,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2022-23,3017,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2022-23,3017,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2022-23,1149,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2022-23,1320,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2022-23,1151,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2022-23,1650,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2022-23,2210,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2022-23,1674,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2022-23,28260,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2022-23,28260,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2022-23,1748,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2022-23,1995,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2022-23,1751,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2022-23,1838,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2022-23,1838,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2022-23,2005,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2022-23,1987,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2022-23,2003,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2022-23,43570,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2022-23,43570,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2022-23,1899,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2022-23,3485,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2022-23,2030,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2022-23,1548,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2022-23,1548,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2022-23,2998,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2022-23,2480,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2022-23,2980,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2022-23,53781,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2022-23,53781,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2022-23,3311,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2022-23,3137,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2022-23,3635,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2022-23,3304,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2022-23,120000,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2022-23,120000,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2022-23,4193,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2022-23,4193,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2022-23,4748,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2022-23,4748,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2022-23,4393,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2022-23,4393,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2022-23,83123,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2022-23,83123,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2022-23,2464,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2022-23,2464,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2022-23,3807,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2022-23,3807,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2022-23,2224,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2022-23,5406,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2022-23,1723,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2022-23,2277,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2022-23,87956,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2022-23,87956,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2022-23,1241,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2022-23,1241,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2022-23,1155,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2022-23,1155,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2022-23,1787,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2022-23,1787,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2022-23,3627,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2022-23,3357,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2022-23,3975,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2022-23,3500,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2022-23,7797,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2022-23,6141,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2022-23,6141,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2022-23,7007,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2022-23,111080,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2022-23,111080,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2022-23,3498,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2022-23,3295,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2022-23,3406,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2022-23,2073,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2022-23,2073,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2022-23,4554,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2022-23,6511,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2022-23,5557,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2022-23,105097,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2022-23,105097,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2022-23,3218,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2022-23,3391,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2022-23,3263,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2022-23,2048,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2022-23,2048,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2022-23,1964,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2022-23,3505,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2022-23,2338,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2022-23,55718,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2022-23,55718,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2022-23,2733,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2022-23,3439,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2022-23,2737,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2022-23,3531,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2022-23,3531,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2022-23,2143,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2022-23,2822,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2022-23,2878,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2022-23,2191,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2022-23,80244,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2022-23,80244,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2022-23,2453,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2022-23,3526,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2022-23,2548,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2022-23,2916,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2022-23,2916,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2022-23,2291,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2022-23,3000,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2022-23,2305,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2022-23,80000,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2022-23,80000,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2022-23,2860,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2022-23,3630,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2022-23,3057,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2022-23,3088,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2022-23,3088,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2022-23,3633,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2022-23,6247,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2022-23,7300,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2022-23,6285,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2022-23,78197,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2022-23,78197,kg_ha
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2023-24,2100,kg_ha
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2023-24,2100,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2023-24,2410,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2023-24,2410,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2023-24,17100,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2023-24,17100,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2023-24,3485,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2023-24,4616,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2023-24,3822,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2023-24,4007,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2023-24,8229,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2023-24,6225,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2023-24,80533,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2023-24,80533,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2023-24,1858,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2023-24,1347,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2023-24,1856,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2023-24,1974,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2023-24,1974,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2023-24,1545,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2023-24,1725,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2023-24,1581,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2023-24,21561,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2023-24,21561,kg_ha
+yield,rice,Rice,in-as,Assam,state,2023-24,2281,kg_ha
+yield,rice,Rice,in-as,Assam,state,2023-24,3080,kg_ha
+yield,rice,Rice,in-as,Assam,state,2023-24,2413,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2023-24,1434,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2023-24,1434,kg_ha
+yield,maize,Maize,in-as,Assam,state,2023-24,5148,kg_ha
+yield,maize,Maize,in-as,Assam,state,2023-24,5139,kg_ha
+yield,maize,Maize,in-as,Assam,state,2023-24,5143,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2023-24,47231,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2023-24,47231,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2023-24,2534,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2023-24,2888,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2023-24,2541,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2023-24,3150,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2023-24,3150,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2023-24,2713,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2023-24,7262,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2023-24,5904,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2023-24,5975,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2023-24,59777,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2023-24,59777,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2023-24,4979,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2023-24,4979,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2023-24,5000,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2023-24,5000,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2023-24,3000,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2023-24,3000,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2023-24,2539,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2023-24,2539,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2023-24,1350,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2023-24,1350,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2023-24,3144,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2023-24,3144,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2023-24,57160,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2023-24,57160,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2023-24,2068,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2023-24,2068,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2023-24,3067,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2023-24,3067,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2023-24,4650,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2023-24,4650,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2023-24,5111,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2023-24,5111,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2023-24,2890,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2023-24,2983,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2023-24,2916,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2023-24,57527,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2023-24,57527,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2023-24,2449,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2023-24,2816,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2023-24,2485,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2023-24,3027,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2023-24,3027,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2023-24,2013,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2023-24,2806,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2023-24,2296,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2023-24,2244,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2023-24,71621,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2023-24,71621,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2023-24,3822,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2023-24,3822,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2023-24,4723,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2023-24,4723,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2023-24,3685,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2023-24,3685,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2023-24,83582,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2023-24,83582,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2023-24,2474,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2023-24,2474,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2023-24,2480,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2023-24,2480,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2023-24,2403,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2023-24,2403,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2023-24,15440,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2023-24,15440,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2023-24,2482,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2023-24,2482,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2023-24,2062,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2023-24,2062,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2023-24,2041,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2023-24,2041,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2023-24,1175,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2023-24,1175,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2023-24,1378,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2023-24,1378,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2023-24,2110,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2023-24,2110,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2023-24,2099,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2023-24,2067,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2023-24,2098,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2023-24,3325,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2023-24,2694,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2023-24,3093,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2023-24,3282,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2023-24,1309,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2023-24,1309,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2023-24,2724,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2023-24,3884,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2023-24,3718,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2023-24,2855,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2023-24,77000,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2023-24,77000,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2023-24,2593,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2023-24,2711,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2023-24,2941,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2023-24,2762,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2023-24,2675,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2023-24,2591,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2023-24,2342,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2023-24,2554,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2023-24,116120,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2023-24,116120,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2023-24,1553,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2023-24,1553,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2023-24,2067,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2023-24,3215,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2023-24,2080,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2023-24,3012,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2023-24,3012,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2023-24,2794,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2023-24,4972,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2023-24,2812,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2023-24,66000,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2023-24,66000,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2023-24,2270,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2023-24,2611,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2023-24,2304,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2023-24,1899,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2023-24,1899,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2023-24,1584,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2023-24,2538,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2023-24,1729,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2023-24,1847,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2023-24,78000,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2023-24,78000,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2023-24,2970,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2023-24,2010,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2023-24,2042,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2023-24,2600,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2023-24,2600,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2023-24,2200,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2023-24,2280,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2023-24,2256,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2023-24,56100,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2023-24,56100,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2023-24,2180,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2023-24,4566,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2023-24,2456,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2023-24,1790,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2023-24,1790,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2023-24,2265,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2023-24,2265,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2023-24,3017,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2023-24,3017,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2023-24,1600,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2023-24,2080,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2023-24,1610,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2023-24,1620,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2023-24,2140,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2023-24,1671,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2023-24,23390,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2023-24,23390,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2023-24,1751,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2023-24,1999,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2023-24,1753,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2023-24,1840,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2023-24,1840,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2023-24,2000,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2023-24,1990,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2023-24,1999,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2023-24,43571,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2023-24,43571,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2023-24,1967,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2023-24,3219,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2023-24,2081,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2023-24,1894,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2023-24,1894,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2023-24,3483,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2023-24,3445,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2023-24,3480,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2023-24,57402,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2023-24,57402,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2023-24,3142,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2023-24,3139,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2023-24,3112,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2023-24,3133,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2023-24,123000,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2023-24,123000,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2023-24,4516,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2023-24,4516,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2023-24,5045,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2023-24,5045,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2023-24,3827,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2023-24,3827,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2023-24,83254,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2023-24,83254,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2023-24,2786,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2023-24,2786,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2023-24,3540,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2023-24,3540,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2023-24,2394,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2023-24,5699,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2023-24,1436,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2023-24,2464,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2023-24,82975,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2023-24,82975,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2023-24,1242,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2023-24,1242,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2023-24,1160,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2023-24,1160,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2023-24,1793,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2023-24,1793,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2023-24,3074,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2023-24,3204,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2023-24,3839,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2023-24,3235,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2023-24,7283,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2023-24,5071,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2023-24,5071,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2023-24,6239,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2023-24,105000,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2023-24,105000,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2023-24,3630,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2023-24,3567,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2023-24,3602,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2023-24,1714,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2023-24,1714,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2023-24,4350,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2023-24,6712,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2023-24,5671,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2023-24,90116,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2023-24,90116,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2023-24,3218,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2023-24,3391,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2023-24,3263,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2023-24,2048,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2023-24,2048,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2023-24,1964,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2023-24,3505,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2023-24,2338,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2023-24,55718,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2023-24,55718,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2023-24,2768,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2023-24,3474,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2023-24,2772,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2023-24,3708,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2023-24,3708,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2023-24,2182,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2023-24,2875,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2023-24,3178,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2023-24,2417,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2023-24,81346,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2023-24,81346,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2023-24,2552,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2023-24,3571,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2023-24,2647,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2023-24,3244,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2023-24,3244,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2023-24,2425,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2023-24,3220,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2023-24,2444,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2023-24,82646,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2023-24,82646,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2023-24,2874,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2023-24,3617,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2023-24,3064,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2023-24,3127,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2023-24,3127,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2023-24,3974,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2023-24,6872,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2023-24,7239,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2023-24,6633,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2023-24,66583,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2023-24,66583,kg_ha
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2024-25,2060,kg_ha
+yield,rice,Rice,in-an,Andaman & Nicobar Islands,ut,2024-25,2060,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2024-25,2229,kg_ha
+yield,maize,Maize,in-an,Andaman & Nicobar Islands,ut,2024-25,2229,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2024-25,6308,kg_ha
+yield,sugarcane,Sugarcane,in-an,Andaman & Nicobar Islands,ut,2024-25,6308,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2024-25,3583,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2024-25,4649,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2024-25,3928,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2024-25,4524,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2024-25,8048,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2024-25,6510,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2024-25,90242,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2024-25,90242,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2024-25,1859,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2024-25,449,kg_ha
+yield,rice,Rice,in-ar,Arunachal Pradesh,state,2024-25,1856,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2024-25,1975,kg_ha
+yield,wheat,Wheat,in-ar,Arunachal Pradesh,state,2024-25,1975,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2024-25,1547,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2024-25,1726,kg_ha
+yield,maize,Maize,in-ar,Arunachal Pradesh,state,2024-25,1583,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2024-25,21563,kg_ha
+yield,sugarcane,Sugarcane,in-ar,Arunachal Pradesh,state,2024-25,21563,kg_ha
+yield,rice,Rice,in-as,Assam,state,2024-25,2065,kg_ha
+yield,rice,Rice,in-as,Assam,state,2024-25,2986,kg_ha
+yield,rice,Rice,in-as,Assam,state,2024-25,2225,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2024-25,1349,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2024-25,1349,kg_ha
+yield,maize,Maize,in-as,Assam,state,2024-25,3446,kg_ha
+yield,maize,Maize,in-as,Assam,state,2024-25,5382,kg_ha
+yield,maize,Maize,in-as,Assam,state,2024-25,4743,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2024-25,42336,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2024-25,42336,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2024-25,2557,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2024-25,2769,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2024-25,2561,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2024-25,3145,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2024-25,3145,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2024-25,2965,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2024-25,7401,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2024-25,5377,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2024-25,6101,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2024-25,63091,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2024-25,63091,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2024-25,3667,kg_ha
+yield,rice,Rice,in-ch,Chandigarh,ut,2024-25,3667,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2024-25,5000,kg_ha
+yield,wheat,Wheat,in-ch,Chandigarh,ut,2024-25,5000,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2024-25,3000,kg_ha
+yield,maize,Maize,in-ch,Chandigarh,ut,2024-25,3000,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2024-25,2655,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2024-25,2655,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2024-25,1599,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2024-25,1599,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2024-25,3241,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2024-25,3241,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2024-25,55930,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2024-25,55930,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2024-25,2068,kg_ha
+yield,rice,Rice,in-dh,Dadra & Nagar Haveli,ut,2024-25,2068,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2024-25,2800,kg_ha
+yield,rice,Rice,in-dl,Delhi,ut,2024-25,2800,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2024-25,4650,kg_ha
+yield,wheat,Wheat,in-dl,Delhi,ut,2024-25,4650,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2024-25,5100,kg_ha
+yield,maize,Maize,in-dl,Delhi,ut,2024-25,5100,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2024-25,2171,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2024-25,2832,kg_ha
+yield,rice,Rice,in-ga,Goa,state,2024-25,2348,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2024-25,54048,kg_ha
+yield,sugarcane,Sugarcane,in-ga,Goa,state,2024-25,54048,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2024-25,2362,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2024-25,2738,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2024-25,2410,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2024-25,3017,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2024-25,3017,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2024-25,1474,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2024-25,2656,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2024-25,2207,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2024-25,1858,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2024-25,72651,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2024-25,72651,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2024-25,3766,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2024-25,3766,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2024-25,4774,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2024-25,4774,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2024-25,3716,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2024-25,3716,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2024-25,81382,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2024-25,81382,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2024-25,2080,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2024-25,2080,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2024-25,2120,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2024-25,2120,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2024-25,2650,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2024-25,2650,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2024-25,15440,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2024-25,15440,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2024-25,2482,kg_ha
+yield,rice,Rice,in-jk,Jammu & Kashmir,ut,2024-25,2482,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2024-25,2062,kg_ha
+yield,wheat,Wheat,in-jk,Jammu & Kashmir,ut,2024-25,2062,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2024-25,2041,kg_ha
+yield,maize,Maize,in-jk,Jammu & Kashmir,ut,2024-25,2041,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2024-25,1175,kg_ha
+yield,sugarcane,Sugarcane,in-jk,Jammu & Kashmir,ut,2024-25,1175,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2024-25,1894,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2024-25,1894,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2024-25,2201,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2024-25,2201,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2024-25,2425,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2024-25,2286,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2024-25,2418,kg_ha
+yield,sugarcane,Sugarcane,in-jh,Jharkhand,state,2024-25,75130,kg_ha
+yield,sugarcane,Sugarcane,in-jh,Jharkhand,state,2024-25,75130,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2024-25,3395,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2024-25,2842,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2024-25,3245,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2024-25,3344,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2024-25,1255,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2024-25,1255,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2024-25,3133,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2024-25,3584,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2024-25,4328,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2024-25,3234,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2024-25,89000,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2024-25,89000,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2024-25,2651,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2024-25,3045,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2024-25,2966,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2024-25,2923,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2024-25,3162,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2024-25,3461,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2024-25,2494,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2024-25,3117,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2024-25,83360,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2024-25,83360,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2024-25,1831,kg_ha
+yield,wheat,Wheat,in-la,Ladakh,ut,2024-25,1831,kg_ha
+yield,maize,Maize,in-la,Ladakh,ut,2024-25,401,kg_ha
+yield,maize,Maize,in-la,Ladakh,ut,2024-25,401,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2024-25,2336,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2024-25,2974,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2024-25,3140,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2024-25,2345,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2024-25,3163,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2024-25,3163,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2024-25,2787,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2024-25,3762,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2024-25,4860,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2024-25,2884,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2024-25,57090,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2024-25,57090,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2024-25,2255,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2024-25,2716,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2024-25,2299,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2024-25,1922,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2024-25,1922,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2024-25,2994,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2024-25,2845,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2024-25,2370,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2024-25,2922,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2024-25,94230,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2024-25,94230,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2024-25,2340,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2024-25,3780,kg_ha
+yield,rice,Rice,in-mn,Manipur,state,2024-25,2465,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2024-25,2320,kg_ha
+yield,wheat,Wheat,in-mn,Manipur,state,2024-25,2320,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2024-25,2240,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2024-25,2160,kg_ha
+yield,maize,Maize,in-mn,Manipur,state,2024-25,2216,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2024-25,48690,kg_ha
+yield,sugarcane,Sugarcane,in-mn,Manipur,state,2024-25,48690,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2024-25,2333,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2024-25,4566,kg_ha
+yield,rice,Rice,in-ml,Meghalaya,state,2024-25,2592,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2024-25,1790,kg_ha
+yield,wheat,Wheat,in-ml,Meghalaya,state,2024-25,1790,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2024-25,2265,kg_ha
+yield,maize,Maize,in-ml,Meghalaya,state,2024-25,2265,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2024-25,3017,kg_ha
+yield,sugarcane,Sugarcane,in-ml,Meghalaya,state,2024-25,3017,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2024-25,1705,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2024-25,2074,kg_ha
+yield,rice,Rice,in-mz,Mizoram,state,2024-25,1709,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2024-25,1793,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2024-25,2404,kg_ha
+yield,maize,Maize,in-mz,Mizoram,state,2024-25,1893,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2024-25,27110,kg_ha
+yield,sugarcane,Sugarcane,in-mz,Mizoram,state,2024-25,27110,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2024-25,1734,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2024-25,1950,kg_ha
+yield,rice,Rice,in-nl,Nagaland,state,2024-25,1736,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2024-25,1840,kg_ha
+yield,wheat,Wheat,in-nl,Nagaland,state,2024-25,1840,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2024-25,2010,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2024-25,1988,kg_ha
+yield,maize,Maize,in-nl,Nagaland,state,2024-25,2008,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2024-25,43280,kg_ha
+yield,sugarcane,Sugarcane,in-nl,Nagaland,state,2024-25,43280,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2024-25,2382,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2024-25,3338,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2024-25,2485,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2024-25,1796,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2024-25,1796,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2024-25,3054,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2024-25,3144,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2024-25,3071,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2024-25,51338,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2024-25,51338,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2024-25,2765,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2024-25,2520,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2024-25,3218,kg_ha
+yield,rice,Rice,in-py,Puducherry,ut,2024-25,2761,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2024-25,123000,kg_ha
+yield,sugarcane,Sugarcane,in-py,Puducherry,ut,2024-25,123000,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2024-25,4428,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2024-25,4428,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2024-25,5123,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2024-25,5123,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2024-25,4303,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2024-25,4303,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2024-25,82050,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2024-25,82050,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2024-25,2593,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2024-25,2593,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2024-25,3559,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2024-25,3559,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2024-25,2553,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2024-25,5455,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2024-25,1958,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2024-25,2658,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2024-25,79977,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2024-25,79977,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2024-25,1242,kg_ha
+yield,rice,Rice,in-sk,Sikkim,state,2024-25,1242,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2024-25,1160,kg_ha
+yield,wheat,Wheat,in-sk,Sikkim,state,2024-25,1160,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2024-25,1793,kg_ha
+yield,maize,Maize,in-sk,Sikkim,state,2024-25,1793,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2024-25,3375,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2024-25,3109,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2024-25,3874,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2024-25,3288,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2024-25,5923,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2024-25,5084,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2024-25,5084,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2024-25,5487,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2024-25,102000,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2024-25,102000,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2024-25,3640,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2024-25,3614,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2024-25,3627,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2024-25,1973,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2024-25,1973,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2024-25,4814,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2024-25,6465,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2024-25,5860,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2024-25,93064,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2024-25,93064,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2024-25,3043,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2024-25,3557,kg_ha
+yield,rice,Rice,in-tr,Tripura,state,2024-25,3185,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2024-25,2172,kg_ha
+yield,wheat,Wheat,in-tr,Tripura,state,2024-25,2172,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2024-25,1727,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2024-25,3215,kg_ha
+yield,maize,Maize,in-tr,Tripura,state,2024-25,2118,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2024-25,56404,kg_ha
+yield,sugarcane,Sugarcane,in-tr,Tripura,state,2024-25,56404,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2024-25,2817,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2024-25,3068,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2024-25,2824,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2024-25,3714,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2024-25,3714,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2024-25,2189,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2024-25,2889,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2024-25,3473,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2024-25,2880,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2024-25,81165,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2024-25,81165,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2024-25,2667,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2024-25,3921,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2024-25,2710,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2024-25,3310,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2024-25,3310,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2024-25,2725,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2024-25,3022,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2024-25,2743,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2024-25,84659,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2024-25,84659,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2024-25,2602,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2024-25,3680,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2024-25,2865,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2024-25,3130,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2024-25,3130,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2024-25,4547,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2024-25,7080,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2024-25,7400,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2024-25,6999,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2024-25,66580,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2024-25,66580,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2025-26,3647,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2025-26,4649,kg_ha
+yield,rice,Rice,in-ap,Andhra Pradesh,state,2025-26,3993,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2025-26,5456,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2025-26,8379,kg_ha
+yield,maize,Maize,in-ap,Andhra Pradesh,state,2025-26,7447,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2025-26,86125,kg_ha
+yield,sugarcane,Sugarcane,in-ap,Andhra Pradesh,state,2025-26,86125,kg_ha
+yield,rice,Rice,in-as,Assam,state,2025-26,2158,kg_ha
+yield,rice,Rice,in-as,Assam,state,2025-26,3032,kg_ha
+yield,rice,Rice,in-as,Assam,state,2025-26,2305,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2025-26,1362,kg_ha
+yield,wheat,Wheat,in-as,Assam,state,2025-26,1362,kg_ha
+yield,maize,Maize,in-as,Assam,state,2025-26,4239,kg_ha
+yield,maize,Maize,in-as,Assam,state,2025-26,5303,kg_ha
+yield,maize,Maize,in-as,Assam,state,2025-26,4961,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2025-26,44711,kg_ha
+yield,sugarcane,Sugarcane,in-as,Assam,state,2025-26,44711,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2025-26,2634,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2025-26,2812,kg_ha
+yield,rice,Rice,in-br,Bihar,state,2025-26,2637,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2025-26,3026,kg_ha
+yield,wheat,Wheat,in-br,Bihar,state,2025-26,3026,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2025-26,3391,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2025-26,7476,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2025-26,5917,kg_ha
+yield,maize,Maize,in-br,Bihar,state,2025-26,6270,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2025-26,70401,kg_ha
+yield,sugarcane,Sugarcane,in-br,Bihar,state,2025-26,70401,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2025-26,2680,kg_ha
+yield,rice,Rice,in-ct,Chhattisgarh,state,2025-26,2680,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2025-26,1680,kg_ha
+yield,wheat,Wheat,in-ct,Chhattisgarh,state,2025-26,1680,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2025-26,3643,kg_ha
+yield,maize,Maize,in-ct,Chhattisgarh,state,2025-26,3643,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2025-26,57930,kg_ha
+yield,sugarcane,Sugarcane,in-ct,Chhattisgarh,state,2025-26,57930,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2025-26,1675,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2025-26,2738,kg_ha
+yield,rice,Rice,in-gj,Gujarat,state,2025-26,1813,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2025-26,3110,kg_ha
+yield,wheat,Wheat,in-gj,Gujarat,state,2025-26,3110,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2025-26,2035,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2025-26,2758,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2025-26,2197,kg_ha
+yield,maize,Maize,in-gj,Gujarat,state,2025-26,2291,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2025-26,75258,kg_ha
+yield,sugarcane,Sugarcane,in-gj,Gujarat,state,2025-26,75258,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2025-26,3570,kg_ha
+yield,rice,Rice,in-hr,Haryana,state,2025-26,3570,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2025-26,4759,kg_ha
+yield,wheat,Wheat,in-hr,Haryana,state,2025-26,4759,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2025-26,3934,kg_ha
+yield,maize,Maize,in-hr,Haryana,state,2025-26,3934,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2025-26,83582,kg_ha
+yield,sugarcane,Sugarcane,in-hr,Haryana,state,2025-26,83582,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2025-26,2076,kg_ha
+yield,rice,Rice,in-hp,Himachal Pradesh,state,2025-26,2076,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2025-26,2108,kg_ha
+yield,wheat,Wheat,in-hp,Himachal Pradesh,state,2025-26,2108,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2025-26,2090,kg_ha
+yield,maize,Maize,in-hp,Himachal Pradesh,state,2025-26,2090,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2025-26,15330,kg_ha
+yield,sugarcane,Sugarcane,in-hp,Himachal Pradesh,state,2025-26,15330,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2025-26,1989,kg_ha
+yield,rice,Rice,in-jh,Jharkhand,state,2025-26,1989,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2025-26,2096,kg_ha
+yield,wheat,Wheat,in-jh,Jharkhand,state,2025-26,2096,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2025-26,2229,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2025-26,2092,kg_ha
+yield,maize,Maize,in-jh,Jharkhand,state,2025-26,2221,kg_ha
+yield,sugarcane,Sugarcane,in-jh,Jharkhand,state,2025-26,75785,kg_ha
+yield,sugarcane,Sugarcane,in-jh,Jharkhand,state,2025-26,75785,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2025-26,3301,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2025-26,2737,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2025-26,3201,kg_ha
+yield,rice,Rice,in-ka,Karnataka,state,2025-26,3270,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2025-26,1311,kg_ha
+yield,wheat,Wheat,in-ka,Karnataka,state,2025-26,1311,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2025-26,3308,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2025-26,3652,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2025-26,3934,kg_ha
+yield,maize,Maize,in-ka,Karnataka,state,2025-26,3356,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2025-26,88000,kg_ha
+yield,sugarcane,Sugarcane,in-ka,Karnataka,state,2025-26,88000,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2025-26,2637,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2025-26,3270,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2025-26,3190,kg_ha
+yield,rice,Rice,in-kl,Kerala,state,2025-26,3105,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2025-26,3153,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2025-26,3475,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2025-26,3240,kg_ha
+yield,maize,Maize,in-kl,Kerala,state,2025-26,3342,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2025-26,77970,kg_ha
+yield,sugarcane,Sugarcane,in-kl,Kerala,state,2025-26,77970,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2025-26,2371,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2025-26,3141,kg_ha
+yield,rice,Rice,in-mp,Madhya Pradesh,state,2025-26,2378,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2025-26,3226,kg_ha
+yield,wheat,Wheat,in-mp,Madhya Pradesh,state,2025-26,3226,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2025-26,3345,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2025-26,5242,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2025-26,4855,kg_ha
+yield,maize,Maize,in-mp,Madhya Pradesh,state,2025-26,3465,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2025-26,58900,kg_ha
+yield,sugarcane,Sugarcane,in-mp,Madhya Pradesh,state,2025-26,58900,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2025-26,1938,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2025-26,2716,kg_ha
+yield,rice,Rice,in-mh,Maharashtra,state,2025-26,2016,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2025-26,1967,kg_ha
+yield,wheat,Wheat,in-mh,Maharashtra,state,2025-26,1967,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2025-26,2426,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2025-26,2989,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2025-26,1817,kg_ha
+yield,maize,Maize,in-mh,Maharashtra,state,2025-26,2569,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2025-26,95963,kg_ha
+yield,sugarcane,Sugarcane,in-mh,Maharashtra,state,2025-26,95963,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2025-26,2559,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2025-26,3485,kg_ha
+yield,rice,Rice,in-od,Odisha,state,2025-26,2650,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2025-26,1724,kg_ha
+yield,wheat,Wheat,in-od,Odisha,state,2025-26,1724,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2025-26,3172,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2025-26,3117,kg_ha
+yield,maize,Maize,in-od,Odisha,state,2025-26,3169,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2025-26,52659,kg_ha
+yield,sugarcane,Sugarcane,in-od,Odisha,state,2025-26,52659,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2025-26,3835,kg_ha
+yield,rice,Rice,in-pb,Punjab,state,2025-26,3835,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2025-26,4938,kg_ha
+yield,wheat,Wheat,in-pb,Punjab,state,2025-26,4938,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2025-26,4370,kg_ha
+yield,maize,Maize,in-pb,Punjab,state,2025-26,4370,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2025-26,78143,kg_ha
+yield,sugarcane,Sugarcane,in-pb,Punjab,state,2025-26,78143,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2025-26,2299,kg_ha
+yield,rice,Rice,in-rj,Rajasthan,state,2025-26,2299,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2025-26,3624,kg_ha
+yield,wheat,Wheat,in-rj,Rajasthan,state,2025-26,3624,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2025-26,2323,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2025-26,5241,kg_ha
+yield,maize,Maize,in-rj,Rajasthan,state,2025-26,2432,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2025-26,73103,kg_ha
+yield,sugarcane,Sugarcane,in-rj,Rajasthan,state,2025-26,73103,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2025-26,3518,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2025-26,3305,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2025-26,3942,kg_ha
+yield,rice,Rice,in-tn,Tamil Nadu,state,2025-26,3440,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2025-26,6871,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2025-26,5568,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2025-26,5084,kg_ha
+yield,maize,Maize,in-tn,Tamil Nadu,state,2025-26,6168,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2025-26,109180,kg_ha
+yield,sugarcane,Sugarcane,in-tn,Tamil Nadu,state,2025-26,109180,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2025-26,3372,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2025-26,3577,kg_ha
+yield,rice,Rice,in-tg,Telangana,state,2025-26,3468,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2025-26,2005,kg_ha
+yield,wheat,Wheat,in-tg,Telangana,state,2025-26,2005,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2025-26,4734,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2025-26,6312,kg_ha
+yield,maize,Maize,in-tg,Telangana,state,2025-26,5839,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2025-26,87550,kg_ha
+yield,sugarcane,Sugarcane,in-tg,Telangana,state,2025-26,87550,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2025-26,2827,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2025-26,3068,kg_ha
+yield,rice,Rice,in-up,Uttar Pradesh,state,2025-26,2834,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2025-26,3732,kg_ha
+yield,wheat,Wheat,in-up,Uttar Pradesh,state,2025-26,3732,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2025-26,2212,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2025-26,3200,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2025-26,3314,kg_ha
+yield,maize,Maize,in-up,Uttar Pradesh,state,2025-26,2755,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2025-26,81977,kg_ha
+yield,sugarcane,Sugarcane,in-up,Uttar Pradesh,state,2025-26,81977,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2025-26,2642,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2025-26,3921,kg_ha
+yield,rice,Rice,in-ut,Uttarakhand,state,2025-26,2678,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2025-26,3220,kg_ha
+yield,wheat,Wheat,in-ut,Uttarakhand,state,2025-26,3220,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2025-26,3019,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2025-26,3019,kg_ha
+yield,maize,Maize,in-ut,Uttarakhand,state,2025-26,3019,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2025-26,84750,kg_ha
+yield,sugarcane,Sugarcane,in-ut,Uttarakhand,state,2025-26,84750,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2025-26,2818,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2025-26,3700,kg_ha
+yield,rice,Rice,in-wb,West Bengal,state,2025-26,3032,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2025-26,3095,kg_ha
+yield,wheat,Wheat,in-wb,West Bengal,state,2025-26,3095,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2025-26,4550,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2025-26,7414,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2025-26,7400,kg_ha
+yield,maize,Maize,in-wb,West Bengal,state,2025-26,7223,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2025-26,83000,kg_ha
+yield,sugarcane,Sugarcane,in-wb,West Bengal,state,2025-26,83000,kg_ha
